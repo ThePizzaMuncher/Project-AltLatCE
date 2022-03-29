@@ -34,18 +34,16 @@ If you use numerous other keyboard layouts already, you may want to consider uni
 &nbsp;
 
 ## Changelog
-Version 1.0 is the base, which consists of Beers’ version (available [here][^1]), with a few changes consolidated into this build:  
+Version 1.0 is the base, which consists of Beers’ version ([direct download] here, [article] here) with a few changes consolidated into this build:  
 + Added the glottal stop character `ʔ` to `AltGr + numpad decimal`
-+ Added the hyphen `‐` to `AltGr + f` [^2]
++ Added the hyphen `‐` to `AltGr + f` [^1]
 + Added left angle bracket `<` to `ISO` and right angle bracket `>` to `AltGr + ISO`
 + Added broken pipe character `¦` to `Shift + ISO` and broken l `ꝇ` to `Shift+AltGr + ISO`
 
 &nbsp;
 
-[^1]: A link to the article he wrote about it is [hear]
-
-[^2]: This doesn’t make all the sense in the world, but I also program and for that I need Hyphen‐Minus `-` (this is what most people mean when they refer to ‘hyphen’, the “hyphen” key outputs this); besides, it’s easy to type this way and the Hyphen‐Minus / underscore key was already filled completely.  
+[^1]: This doesn’t make all the sense in the world, but I also program and for that I need Hyphen‐Minus `-` (this is what most people mean when they refer to ‘hyphen’, the “hyphen” key outputs this); besides, it’s easy to type this way and the Hyphen‐Minus / underscore key was already filled completely.  
 Outside all of that, I mostly make the changes I make based on what works for me; so if it seems weird, labyrinthine and convoluted to you, rest assured I was barely trying to inject any sense into it.
 
-[here]: /https://www.theobeers.com/AltLat19.zip "https://www.theobeers.com/AltLat19.zip"
-[hear]: /https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8 "https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8"
+[direct download]: /https://www.theobeers.com/AltLat19.zip "https://www.theobeers.com/AltLat19.zip"
+[article]: /https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8 "https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8"
