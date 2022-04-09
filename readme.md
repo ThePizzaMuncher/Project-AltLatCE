@@ -63,6 +63,18 @@ Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists o
 + Added left angle bracket `<` to `ISO` and right angle bracket `>` to `AltGr + ISO`
 + Added broken pipe character `¦` to `Shift + ISO` and broken l `ꝇ` to `Shift+AltGr + ISO`
 
+### V1.1
++ Moved Not sign `¬` to `CLock 1`
++ Added Fullwidth Not sign `￢` to `CLock Shift + 1`
++ Added Interrobang `‽` to `CLock Shift + /`
++ Moved Glottal Stop `ʔ` from `AltGr + numpad decimal` to `CapsLock /`
++ Added Pharyngeal Voiced Fricative `ʕ` to `CapsLock Shift + /`
++ Added Combining Glottal Stop `ˀ` to `AltGr + numpad decimal`
++ Added Combining Reversed Glottal Stop `ˁ` to `AltGr + numpad decimal`
++ Moved Glottal Stop `ʔ` to `CapsLock Shift + /`, Pharyngeal Voiced Fricative `ʕ` to `CapsLock numpad decimal` and removed the combining glottal stops `ˀ` and `ˁ`, because shift reverses NumLock state
++ Moved Glottal Stop `ʔ` and Pharyngeal Voiced Fricative `ʕ` to `Caps '` and `Caps Shift + '` because that’s more logical and easier to type
++ TL;DR = `ʔ` on `CLock '`, `ʕ` on `CLock Shift + '`, 
+
 
 
 &nbsp;
