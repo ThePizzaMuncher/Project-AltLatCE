@@ -73,44 +73,42 @@ Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists o
 
 ### V1.1
 
+<sup>[zip][1-1zip], [klc][1-1klc]</sup>
+
 + Moved Not sign `¬` to `CLock 1`
 + Added Fullwidth Not sign `￢` to `CLock Shift + 1`
-+ Added Interrobang `‽` to `CLock Shift + /`
-+ Moved Glottal Stop `ʔ` from `AltGr + numpad decimal` to `CapsLock /`
-+ Added Pharyngeal Voiced Fricative `ʕ` to `CapsLock Shift + /`
-+ Added Combining Glottal Stop `ˀ` to `AltGr + numpad decimal`
-+ Added Combining Reversed Glottal Stop `ˁ` to `AltGr + numpad decimal`
-+ Moved Glottal Stop `ʔ` to `CapsLock Shift + /`, Pharyngeal Voiced Fricative `ʕ` to `CapsLock numpad decimal` and removed the combining glottal stops `ˀ` and `ˁ`, because shift reverses NumLock state
-+ Moved Glottal Stop `ʔ` and Pharyngeal Voiced Fricative `ʕ` to `Caps '` and `Caps Shift + '` because that’s more logical and easier to type
-+ TL;DR = `ʔ` on `CLock '`, `ʕ` on `CLock Shift + '`,
++ Added Interrobang `‽` to `CLock + /`
++ Added Inverted Interrobang `⸘` to `CLock Shift + /`
++ Moved Glottal Stop `ʔ` from `AltGr + numpad decimal` to `CLock '`
++ Added Pharyngeal Voiced Fricative `ʕ` to `CLock Shift + '`
++ Swapped the left and right single quotes `‘` `’`, because `’` is used way more than `‘` and it’s annoying to have to use *two* modifiers for every word that has an apostrophe in it (for English that’s a lot of words)
+  + I kept them as they were for double quotes `“` `”`, because that’s more logical for something that’s actually used to open and close quotes
++ Swapped `·` and `¿`, because reasons (I use `¿` more than `·` anyway)
 
 &nbsp;
 
 [^hyphen]: spell‐checking engines sometimes consider this one correct, sometimes they don’t; I’ve included it anyway because from a language standpoint it’s objectively the correct one.
 
-[^emdr]: [https://en.wikipedia.org/wiki/Dash#Ranges_of_values][emdrwiki], if you wanna read more about the whole ranges thing.
+[^emdr]: <https://en.wikipedia.org/wiki/Dash#Ranges_of_values>, if you wanna read more about the whole ranges thing.
 
-[^emdp]: [https://en.wikipedia.org/wiki/Dash#Parenthetic_and_other_uses_at_the_sentence_level][emdpwiki], if you want to read more about the parenthetic use of the en dash.
+[^emdp]: <https://en.wikipedia.org/wiki/Dash#Parenthetic_and_other_uses_at_the_sentence_level>, if you want to read more about the parenthetic use of the en dash.
 
-[^emdc]: [https://en.wikipedia.org/wiki/Dash#Attributive_compounds][emdcwiki] if you want to read more about the use of the en dash in compound words.
+[^emdc]: <https://en.wikipedia.org/wiki/Dash#Attributive_compounds> if you want to read more about the use of the en dash in compound words.
 
 [^hyphenlocation]: This doesn’t make all the sense in the world, but I also program and for that I need Hyphen‐Minus `-` (this is what most people mean when they refer to ‘hyphen’, the “hyphen” key outputs this); besides, it’s easy to type this way and the Hyphen‐Minus / underscore key was already filled completely.  
 Outside all of that, I mostly make the changes I make based on what works for me; so if it seems weird, labyrinthine and convoluted to you, rest assured I was barely trying to inject any sense into it.
 
 [dwiki]: https://en.wikipedia.org/wiki/Dash "https://en.wikipedia.org/wiki/Dash"
 
-[emdrwiki]: https://en.wikipedia.org/wiki/Dash#Ranges_of_values "https://en.wikipedia.org/wiki/Dash#Ranges_of_values"
-
-[emdpwiki]: https://en.wikipedia.org/wiki/Dash#Parenthetic_and_other_uses_at_the_sentence_level "https://en.wikipedia.org/wiki/Dash#Parenthetic_and_other_uses_at_the_sentence_level"
-
-[emdcwiki]: https://en.wikipedia.org/wiki/Dash#Attributive_compounds "https://en.wikipedia.org/wiki/Dash#Attributive_compounds"
-
 [direct download]: https://www.theobeers.com/AltLat19.zip "https://www.theobeers.com/AltLat19.zip"
 
 [article]: https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8 "https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8"
 
-[latest-zip]: /ALCE-v1.0.zip "ALCE-v1.0.zip"
-[latest-klc]: /v1.0/Alt-Latin_CE_v1.0.klc "Alt-Latin_CE_v1.0.klc"
+[latest-zip]: /MFAL-v1.1.zip "MFAL-v1.1.zip"
+[latest-klc]: /v1.1/Muncher%E2%80%90Flavoured_Alt%E2%80%90Latin_v1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.klc"
 
 [1-0zip]: /ALCE-v1.0.zip "ALCE-v1.0.zip"
 [1-0klc]: /v1.0/Alt-Latin_CE_v1.0.klc "v1.0/Alt-Latin_CE_v1.0.klc"
+
+[1-1zip]: /MFAL-v1.1.zip "MFAL-v1.1.zip"
+[1-1klc]: /v1.1/Muncher%E2%80%90Flavoured_Alt%E2%80%90Latin_v1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.klc"
