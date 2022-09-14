@@ -4,7 +4,7 @@ Credit for the base goes to one Kino from the University of Chicago for making i
 
 &nbsp;
 * * *
-[A few things](#A); [Installation](#Installation); [Changelog](#Changelog)
+[A few things](#a-few-things); [Installation](#installation); [Changelog](#changelog)
 
 * * *
 
@@ -27,7 +27,7 @@ There *is* merit to having this layout, though. For one, it provides access to a
 
 + the curved quotation marks `‘ ’   “ ”`, as distinct from the single and double straight ticks `' '   " "` most often found on normal layouts
 + the hyphen `‐` as distinct from the hyphen‐minus `-` normally found on keyboards and often (mistakenly \*grumble\*) referrred to as ‘hyphen’[^hyphen]
-+ the en dash `–`, which is used, among other things, to connect two symmetric items (for instance two ends of a range or two competitors / alternatives[^emdr]), to subsitute pairs of commas / parentheses for a mid‐sentence interruption (depending on the spelling authority)[^emdp], or – depending again on the spelling authority – in compound words when one or more of the compounds is more complex than a single word—or not hyphenated.[^emdc]
++ the en dash `–`, which is used, among other things, to connect two symmetric items (for instance two ends of a range or two competitors / alternatives[^emdr]), to subsitute pairs of commas / parentheses for a mid‐sentence interruption (depending on the spelling authority)[^emdp], or – depending again on the spelling authority – in compound words when one or more of the compounds is more complex than a single word, or not hyphenated.[^emdc]
   + ([here][dwiki]’s a link to the wikipedia page on dashes, if you couldn’t be bothered to go to the footnotes or if you wanted to read the whole thing instead)
 + the em dash `—`, as frequently seen throughout this very document alone. In English its use is mostly parenthetical (to create breaks in sentences, like parenthesis or commas do, such as here); enclosing part of a sentence in em dashes might signal that it’s more important to the rest of the sentence than parenthesis would
 
@@ -85,6 +85,13 @@ Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists o
   + I kept them as they were for double quotes `“` `”`, because that’s more logical for something that’s actually used to open and close quotes
 + Swapped `·` and `¿`, because reasons (I use `¿` more than `·` anyway)
 
+### V1.1.1
+
+<sup>[zip][1-1-1zip], [klc][1-1-1klc]</sup>
+
++ Fixed the acute accent dead key—somehow, `AltGr + E Shift + O` made `Ã` instead of `Ó`
++ Finally moved `ß` from `AltGr + s` to `AltGr + Shift + s`, and removed `§` from `AltGr + Shift + s`, because `§` exists on `AltGr + 6` and I make mistakes like `’ß` too often (this is kinda dumb if I don’t also remove `þ` from `AltGr + t`, but that actually has a capital version)
+
 &nbsp;
 
 [^hyphen]: spell‐checking engines sometimes consider this one correct, sometimes they don’t; I’ve included it anyway because from a language standpoint it’s objectively the correct one.
@@ -112,3 +119,6 @@ Outside all of that, I mostly make the changes I make based on what works for me
 
 [1-1zip]: /MFAL-v1.1.zip "MFAL-v1.1.zip"
 [1-1klc]: /v1.1/Muncher%E2%80%90Flavoured_Alt%E2%80%90Latin_v1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.klc"
+
+[1-1-1zip]: /MFAL-V1.1.1.zip "MFAL-V1.1.1.zip"
+[1-1-1klc]: /v1.1.1/Muncher‐Flavoured_Alt‐Latin_v1.1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.1.klc"
