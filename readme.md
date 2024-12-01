@@ -14,22 +14,22 @@ Credit for the base goes to one Kino from the University of Chicago for making i
 
 This is a modified keyboard layout for Windows (10), based on an existing custom layout which is itself a modification of the US-International QWERTY layout.
 On the face of it, it’s simply QWERTY; as far as the labels on the keyboard go, this layout is identical to US-International; what differs is the functions / symbols accessed with `AltGr` and `AltGr + Shift`.  
-Of note here is that unlike on US-International, there are no dead keys on the base layer; `'` `e` makes `'e` and not `é`, `Shift + '` `e` makes `"` and not `ë`, and so on. All the dead keys of US-International are still present—they’re just behind different keystrokes.
+Of note here is that unlike on US-International, there are no dead keys on the base layer; `'` `e` makes `'e` and not `é`, `Shift + '` `e` makes `"e` and not `ë`, and so on. All the dead keys of US-International are still present—they’re just behind different keystrokes.
 
 &nbsp;
 
 ## The why
 
 In short: because I can.  
-Kino probably made this layout because they actually needed it (wether for their study, job or otherwise); I merely installed it because I like using exotic symbols, or ones that are technically correct / used to be correct but are fading into disuse or, even worse, obscurity. I then started adding stuff that I also wanted quick access to, and here we are.
+Kino probably made this layout because they actually needed it (whether for their study, job or otherwise); I merely installed it because I like using exotic symbols, or ones that are technically correct / used to be correct but are fading into disuse or obscurity. I then started adding stuff that I also wanted quick access to, and here we are.
 
 There *is* merit to having this layout, though. For one, it provides access to a lot more diacritical markings that one might need just to type foreign words correctly (or in my case, my own—even if those used in Dutch are already present on US-Intl, which is the standard layout in the Netherlands). It also gives quick access to certain symbols that aren’t even supposed to be obscure and that many people use frequently but are not found on normal layouts; examples include:
 
 + the curved quotation marks `‘ ’   “ ”`, as distinct from the single and double straight ticks `' '   " "` most often found on normal layouts
-+ the hyphen `‐` as distinct from the hyphen‐minus `-` normally found on keyboards and often (mistakenly \*grumble\*) referrred to as ‘hyphen’[^hyphen]
++ the hyphen `‐` as distinct from the hyphen‐minus `-` normally found on keyboards and often (mistakenly) referrred to as ‘hyphen’[^hyphen]
 + the en dash `–`, which is used, among other things, to connect two symmetric items (for instance two ends of a range or two competitors / alternatives[^emdr]), to subsitute pairs of commas / parentheses for a mid‐sentence interruption (depending on the spelling authority)[^emdp], or – depending again on the spelling authority – in compound words when one or more of the compounds is more complex than a single word, or not hyphenated.[^emdc]
   + ([here][dwiki]’s a link to the wikipedia page on dashes, if you couldn’t be bothered to go to the footnotes or if you wanted to read the whole thing instead)
-+ the em dash `—`, as frequently seen throughout this very document alone. In English its use is mostly parenthetical (to create breaks in sentences, like parenthesis or commas do, such as here); enclosing part of a sentence in em dashes might signal that it’s more important to the rest of the sentence than parenthesis would
++ the em dash `—`, as frequently seen in this document. In English its use is mostly parenthetical (to create breaks in sentences, like parenthesis or commas do, such as here); enclosing part of a sentence in em dashes might signal that it’s more important to the rest of the sentence than parenthesis would
 
 Some of these do have ALT codes—hell, some of those ALT codes might even work consistently—but ALT codes are a pain in the flesh to type with any frequency, and as I just said, some of them don’t work consistently in every program. This layout solves that, by giving easy access to such symbols.
 
@@ -69,18 +69,18 @@ Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists o
 + Added the glottal stop character `ʔ` to `AltGr + numpad decimal`
 + Added the hyphen `‐` to `AltGr + f` [^hyphenlocation]
 + Added left angle bracket `<` to `ISO` and right angle bracket `>` to `AltGr + ISO`
-+ Added broken pipe character `¦` to `Shift + ISO` and broken l `ꝇ` to `Shift+AltGr + ISO`
++ Added broken pipe character `¦` to `Shift + ISO` and broken `l` `ꝇ` to `Shift+AltGr + ISO`
 
 ### V1.1
 
 <sup>[zip][1-1zip], [klc][1-1klc]</sup>
 
-+ Moved Not sign `¬` to `CLock 1`
-+ Added Fullwidth Not sign `￢` to `CLock Shift + 1`
-+ Added Interrobang `‽` to `CLock + /`
-+ Added Inverted Interrobang `⸘` to `CLock Shift + /`
-+ Moved Glottal Stop `ʔ` from `AltGr + numpad decimal` to `CLock '`
-+ Added Pharyngeal Voiced Fricative `ʕ` to `CLock Shift + '`
++ Moved Not sign `¬` to `CapsLock 1`
++ Added Fullwidth Not sign `￢` to `CapsLock Shift + 1`
++ Added Interrobang `‽` to `CapsLock + /`
++ Added Inverted Interrobang `⸘` to `CapsLock Shift + /`
++ Moved Glottal Stop `ʔ` from `AltGr + numpad decimal` to `CapsLock '`
++ Added Pharyngeal Voiced Fricative `ʕ` to `CapsLock Shift + '`
 + Swapped the left and right single quotes `‘` `’`, because `’` is used way more than `‘` and it’s annoying to have to use *two* modifiers for every word that has an apostrophe in it (for English that’s a lot of words)
   + I kept them as they were for double quotes `“` `”`, because that’s more logical for something that’s actually used to open and close quotes
 + Swapped `·` and `¿`, because reasons (I use `¿` more than `·` anyway)
