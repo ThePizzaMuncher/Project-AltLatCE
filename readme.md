@@ -37,8 +37,8 @@ Some of these do have ALT codes—hell, some of those ALT codes might even work 
 
 ## A few things
 
-+ I’m not pretending that I made any of these changes to make sense for anyone other than myself—to me, they might be the most logical thing in the world, while an onlooker may wonder what in the black river I’ve been spiking my coffee with. I’m only working with what I have here, which is an already rich keyboard layout, and an ISO keyboard with a number pad. And on that…
-+ The changes I make to this layout assume that the keyboard in use has a number pad, and the extra key on the bottom left row, between z and left Shift; present on ISO keyboards, which are most commonly found in Europe. While the most important characters are already present and thus don’t need adding, I will not hesitate to use any of these keys as an added benefit.
++ I’m not pretending that I made any of these changes to make sense for anyone other than myself; to me, they might be the most logical thing in the world, while an onlooker may wonder what in the black river I’ve been spiking my coffee with. I’m only working with what I have here, which is an already rich keyboard layout, and an ISO keyboard with a number pad. And on that…
++ The changes I make to this layout assume that the keyboard in use has a number pad, and the extra key on the bottom left row, between Z and left Shift; present on ISO keyboards, which are most commonly found in Europe. While the most important characters are already present and thus don’t need adding, I will not hesitate to use any of these keys as an added benefit.
 
 With that out the way, let’s begin.
 
@@ -55,7 +55,7 @@ This is the easiest part;
 3) Open `setup.exe`
 4) Wait for the message telling you it’s been installed to pop up
 5) Restart your computer
-6) Go to Settings – Time & Language – [your preferred language] – Options, click `Add a keyboard`, and select `Alt-Latin 2019 - CE` if you installed the base version, or `Muncher‐Flavoured Alt‐Latin [version number]` if you installed a later one. In any case, the installed layout should show up at the top
+6) Go to Settings – Time & Language – [your preferred language] – Options, click `Add a keyboard`, and select `Alt-Latin 2019 - CE` if you installed the base version, or `Muncher‐Flavoured Alt‐Latin` if you installed a later one. In any case, the installed layout should show up at the top
 7) Profit
 
 If you use numerous other keyboard layouts already, you may want to consider uninstalling those, leaving only one behind for the language you want to use this layout on. Your mileage may vary, but I’ve had nothing but headaches installing this until I temporarily uninstalled the Russian language and layout.
@@ -67,7 +67,7 @@ If you use numerous other keyboard layouts already, you may want to consider uni
 Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists of Beers’ version ([direct download] here, [article] here) with a few changes consolidated into this build:
 
 + Added the glottal stop character `ʔ` to `AltGr + numpad decimal`
-+ Added the hyphen `‐` to `AltGr + f` [^hyphenlocation]
++ Added the hyphen `‐` to `AltGr + f`[^hyphenlocation]
 + Added left angle bracket `<` to `ISO` and right angle bracket `>` to `AltGr + ISO`
 + Added broken pipe character `¦` to `Shift + ISO` and broken `l` `ꝇ` to `Shift+AltGr + ISO`
 
@@ -91,6 +91,19 @@ Version 1.0<sup>[zip][1-0zip], [klc][1-0klc]</sup> is the base, which consists o
 
 + Fixed the acute accent dead key—somehow, `AltGr + E Shift + O` made `Ã` instead of `Ó`
 + Finally moved `ß` from `AltGr + s` to `AltGr + Shift + s`, and removed `§` from `AltGr + Shift + s`, because `§` exists on `AltGr + 6` and I make mistakes like `’ß` too often (this is kinda dumb if I don’t also remove `þ` from `AltGr + t`, but that actually has a capital version)
+
+### V1.2
+
+<sup>[zip][1-2zip], [klc][1-2klc]</sup>
+
++ Moved `u+00ab` and `u+00bb` (`« »`) from `AltGr (+ Shift) + \` to `Shift + <` and `AltGr + Shift + <`, respectively; consequently removing `u+00a6` and `u+a747` (`¦ ꝇ`)
+  + Moved `u+2019` and `u+2018` (`’ ‘`) to `AltGr (+_ Shift) + '`
+  + Moved `æ` and `Æ` to `AltGr (+ Shift) + \`
+  + Moved `u+201d` (`”`) to `AltGr + ]`
+  + Moved `u+201e` (`„`) to `AltGr + Shift + [`
+  + Moved `u+201a` (`‚`) to `AltGr + Shift + ]`
+  + Added single and double German closing quotation marks `u+201f` and `u+201b` (`‟ ‛`) to `AltGr + 9` and `AltGr + 0`
+
 
 &nbsp;
 
