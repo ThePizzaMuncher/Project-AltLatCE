@@ -50,8 +50,8 @@ With that out the way, let’s begin.
 
 This is the easiest part;
 
-1) Grab the `.zip` file containing the [latest][latest-zip] iteration (or the desired one) from its respective folder—if you want to change it beforehand you can download the [klc][latest-klc] instead; or you can download the entire repo if you so desire, it’s all sausage to me
-2) Extract if applicable and enter the folder it creates
+1) Grab the `.zip` file containing the [latest][latest-zip] iteration—or the desired one—from its respective folder (if you want to change it beforehand you can download the [klc][latest-klc] instead; or you can download the entire repo if you so desire, it’s all sausage to me)
+2) Extract and enter the resultant folder, if applicable
 3) Open `setup.exe`
 4) Wait for the message telling you it’s been installed to pop up
 5) Restart your computer
@@ -124,8 +124,8 @@ Outside all of that, I mostly make the changes I make based on what works for me
 
 [article]: https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8 "https://medium.com/@tbeers/the-alt-latin-keyboard-layout-windows-version-701c64f8bfd8"
 
-[latest-zip]: /MFAL-v1.1.zip "MFAL-v1.1.zip"
-[latest-klc]: /v1.1/Muncher%E2%80%90Flavoured_Alt%E2%80%90Latin_v1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.klc"
+[latest-zip]: /MFAL-v1.2.zip "MFAL-v1.2.zip"
+[latest-klc]: /v1.2/MFAL-v1.2/Muncher‐Flavoured_Alt‐Latin_v1.2.klc "Muncher‐Flavoured_Alt‐Latin_v1.2.klc"
 
 [1-0zip]: /ALCE-v1.0.zip "ALCE-v1.0.zip"
 [1-0klc]: /v1.0/Alt-Latin_CE_v1.0.klc "v1.0/Alt-Latin_CE_v1.0.klc"
@@ -133,5 +133,8 @@ Outside all of that, I mostly make the changes I make based on what works for me
 [1-1zip]: /MFAL-v1.1.zip "MFAL-v1.1.zip"
 [1-1klc]: /v1.1/Muncher%E2%80%90Flavoured_Alt%E2%80%90Latin_v1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.klc"
 
-[1-1-1zip]: /MFAL-V1.1.1.zip "MFAL-V1.1.1.zip"
+[1-1-1zip]: /MFAL-v1.1.1.zip "MFAL-v1.1.1.zip"
 [1-1-1klc]: /v1.1.1/Muncher‐Flavoured_Alt‐Latin_v1.1.1.klc "Muncher‐Flavoured_Alt‐Latin_v1.1.1.klc"
+
+[1-2zip]: /MFAL-v1.2.zip "MFAL-v1.2.zip"
+[1-2klc]: /v1.2/Muncher‐Flavoured_Alt‐Latin_v1.2.klc "Muncher‐Flavoured_Alt‐Latin_v1.2.klc"
